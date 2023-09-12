@@ -9,5 +9,4 @@ class CreationApiSwaggerUiPostmanApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
